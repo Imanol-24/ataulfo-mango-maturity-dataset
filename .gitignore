@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.keras
+
+# Large generated outputs
+outputs/**
+!outputs/.gitkeep
+
+# Optional: ignore raw generated temporary data
+*.tmp
