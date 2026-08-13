@@ -4,13 +4,9 @@ This release contains the complete Ataulfo mango image dataset organized by matu
 
 ## Files
 
-Upload the compressed dataset files here:
+The complete image dataset is available in the GitHub Releases section:
 
-- `ataulfo_mango_images_R01.zip`
-- `ataulfo_mango_images_R02.zip`
-- `ataulfo_mango_images_R03.zip`
-- `ataulfo_mango_images_R04.zip`
-- `tabular_features.zip`
+https://github.com/Imanol-24/ataulfo-mango-maturity-dataset/releases/tag/v1.0.0
 
 ## Dataset organization
 

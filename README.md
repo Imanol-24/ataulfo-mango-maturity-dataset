@@ -13,7 +13,7 @@
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-Segmentation-green">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-MLP-orange">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-Pretrained%20Models-red">
-  <img alt="Dataset" src="https://img.shields.io/badge/Dataset-Ataulfo%20Mango-yellowgreen">
+  <img alt="Dataset" src="https://github.com/Imanol-24/ataulfo-mango-maturity-dataset/releases/tag/v1.0.0">
   <img alt="Citation" src="https://img.shields.io/badge/Citation-Paper%20Required-lightgrey">
 </p>
 
@@ -57,23 +57,10 @@ In addition to the images, CSV files with previously extracted quantitative feat
 
 The complete image dataset is not stored directly inside the Git repository because of its size.
 
-The complete dataset should be published in the **GitHub Releases** section as compressed files.
+The complete image dataset is available in the GitHub Releases section:
 
-Suggested release assets:
+https://github.com/Imanol-24/ataulfo-mango-maturity-dataset/releases/tag/v1.0.0
 
-```text
-ataulfo_mango_images_R01.zip
-ataulfo_mango_images_R02.zip
-ataulfo_mango_images_R03.zip
-ataulfo_mango_images_R04.zip
-tabular_features.zip
-```
-
-Once the release is published, replace `YOUR_USER` with your GitHub username:
-
-```text
-https://github.com/YOUR_USER/ataulfo-mango-maturity-dataset/releases/tag/v1.0.0
-```
 
 ---
 
