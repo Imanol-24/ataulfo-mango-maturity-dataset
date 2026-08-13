@@ -8,13 +8,27 @@
   <em>Representative visual appearance of Ataulfo mango samples across different maturity stages.</em>
 </p>
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blue">
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-Segmentation-green">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-MLP-orange">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-Pretrained%20Models-red">
-  <img alt="Dataset" src="https://github.com/Imanol-24/ataulfo-mango-maturity-dataset/releases/tag/v1.0.0">
-  <img alt="Citation" src="https://img.shields.io/badge/Citation-Paper%20Required-lightgrey">
+<<p align="center">
+<!--
+  <a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blue">
+  </a>
+  <a href="https://opencv.org/">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-Segmentation-green">
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-MLP-orange">
+  </a>
+  <a href="https://pytorch.org/">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-Pretrained%20Models-red">
+  </a>
+  -->
+  <a href="https://github.com/Imanol-24/ataulfo-mango-maturity-dataset/releases/tag/v1.0.0">
+    <img alt="Dataset" src="https://img.shields.io/badge/Dataset-Ataulfo%20Mango-yellowgreen">
+  </a>
+  <a href="#citation">
+    <img alt="Citation" src="https://img.shields.io/badge/Citation-Paper%20Required-lightgrey">
+  </a>
 </p>
 
 This repository provides an **Ataulfo mango dataset for maturity classification**, together with quantitative feature datasets in CSV format and reproducible code for image segmentation, feature extraction, MLP classification, and pretrained deep learning models.
