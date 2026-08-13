@@ -1,0 +1,12 @@
+This repository contains source code and datasets under separate licenses.
+
+Source code:
+MIT License. See LICENSE-CODE.
+
+Image and tabular datasets:
+Creative Commons Attribution 4.0 International (CC BY 4.0). See LICENSE-DATA.
+
+Citation:
+If you use the image dataset, tabular feature datasets, source code, models, scripts, or any derived resource from this repository, please cite the associated paper listed in README.md and CITATION.cff.
+
+Citation information will be completed once the associated article is formally published.

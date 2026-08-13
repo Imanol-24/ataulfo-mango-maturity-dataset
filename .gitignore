@@ -1,39 +1,40 @@
-# Python cache
+# Python
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
+*$py.class
+.ipynb_checkpoints/
 
 # Virtual environments
 .venv/
 venv/
 env/
 
-# Jupyter
-.ipynb_checkpoints/
-
-# OS files
+# Operating system files
 .DS_Store
 Thumbs.db
-
-# Build and packaging
-build/
-dist/
-*.egg-info/
 
 # Logs
 *.log
 
-# Model weights and checkpoints
-*.pt
-*.pth
-*.ckpt
-*.h5
-*.keras
-
-# Large generated outputs
-outputs/**
+# Generated outputs
+outputs/*
 !outputs/.gitkeep
+results/
+runs/
+checkpoints/
+repro_bundle_*/
 
-# Optional: ignore raw generated temporary data
-*.tmp
+# Trained models and temporary checkpoints
+*.pth
+*.keras
+*.h5
+*.pkl
+*.npy
+tmp_clasico_best.keras
+
+# Complete dataset: use GitHub Releases, not Git
+data/images/
+full_dataset/
+*.zip
+*.rar
+*.7z

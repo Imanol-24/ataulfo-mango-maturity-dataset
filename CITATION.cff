@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Ataulfo Mango Maturity Dataset and Reproducible Code"
+message: "If you use this repository, the dataset, CSV feature datasets, source code, or any derived resource, please cite the associated paper."
+type: dataset
+authors:
+  - family-names: "AuthorLastName"
+    given-names: "AuthorName"
+repository-code: "https://github.com/YOUR_USER/ataulfo-mango-maturity-dataset"
+abstract: "Ataulfo mango maturity dataset with labeled images, quantitative feature datasets, and reproducible code for segmentation, feature extraction, MLP classification, and pretrained deep learning models."
+keywords:
+  - Ataulfo mango
+  - mango dataset
+  - mango maturity
+  - computer vision
+  - feature extraction
+  - MLP
+  - pretrained models
+  - GLCM
+  - LBPriu2
+  - Otsu
+  - Kapur
+license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "AuthorLastName"
+      given-names: "AuthorName"
+  title: "Automatic Classification of Ataulfo Mango Maturity Using Handcrafted Color and Texture Features and Machine Learning"
+  journal: "Algorithms"
+  year: 2026
+  doi: "TO_BE_ADDED"
