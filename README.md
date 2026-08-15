@@ -82,7 +82,7 @@ https://github.com/Imanol-24/ataulfo-mango-maturity-dataset/releases/tag/v1.0.0
 Clone the repository:
 
 ```bash
-git clone https://github.com/USER/ataulfo-mango-maturity-dataset.git
+git clone https://github.com/Imanol-24/ataulfo-mango-maturity-dataset.git
 cd ataulfo-mango-maturity-dataset
 ```
 
