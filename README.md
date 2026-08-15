@@ -39,7 +39,6 @@ The objective of this repository is to allow researchers to use the dataset, ver
 >
 > If you use the image dataset, CSV feature datasets, source code, models, scripts, or any derived resource from this repository, please cite the associated paper.
 >
-> The article is planned for publication in **Algorithms**, an open access journal from **MDPI**.
 >
 > Complete citation information will be updated once the article is formally published.
 
@@ -83,7 +82,7 @@ https://github.com/Imanol-24/ataulfo-mango-maturity-dataset/releases/tag/v1.0.0
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USER/ataulfo-mango-maturity-dataset.git
+git clone https://github.com/USER/ataulfo-mango-maturity-dataset.git
 cd ataulfo-mango-maturity-dataset
 ```
 
@@ -188,8 +187,6 @@ The image dataset is organized by class, not by experimental partitions. Each us
 ## Citation
 
 If you use any resource from this repository, including images, CSV files, code, models, scripts, or derived resources, please cite the associated paper.
-
-The article is planned for publication in **Algorithms**, an open access journal from **MDPI**.
 
 ### APA 7 format
 
