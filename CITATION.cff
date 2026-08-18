@@ -1,17 +1,28 @@
+
+```yaml
 cff-version: 1.2.0
 title: "Ataulfo Mango Maturity Dataset and Reproducible Code"
-message: "If you use this repository, the dataset, CSV feature datasets, source code, or any derived resource, please cite the associated paper."
+message: "If you use this repository, the image dataset, CSV feature datasets, source code, models, scripts, or any derived resource, please cite the associated paper."
 type: dataset
 authors:
-  - family-names: "AuthorLastName"
-    given-names: "AuthorName"
-repository-code: "https://github.com/YOUR_USER/ataulfo-mango-maturity-dataset"
-abstract: "Ataulfo mango maturity dataset with labeled images, quantitative feature datasets, and reproducible code for segmentation, feature extraction, MLP classification, and pretrained deep learning models."
+  - family-names: "Marianito-Cuahuitic"
+    given-names: "Imanol"
+  - family-names: "Fuentes-Pacheco"
+    given-names: "Jorge"
+  - family-names: "Castro-Bello"
+    given-names: "Mirna"
+  - family-names: "Campos-Francisco"
+    given-names: "Wilfrido"
+  - family-names: "Bárcenas-Nava"
+    given-names: "Areli"
+repository-code: "https://github.com/Imanol-24/ataulfo-mango-maturity-dataset.git"
+abstract: "Ataulfo mango ripeness dataset with labeled images, quantitative feature datasets, and reproducible code for segmentation, feature extraction, MLP classification, and pretrained deep learning models."
 keywords:
   - Ataulfo mango
+  - mango ripeness
   - mango dataset
-  - mango maturity
   - computer vision
+  - machine learning
   - feature extraction
   - MLP
   - pretrained models
@@ -23,9 +34,20 @@ license: "CC-BY-4.0"
 preferred-citation:
   type: article
   authors:
-    - family-names: "AuthorLastName"
-      given-names: "AuthorName"
-  title: "Automatic Classification of Ataulfo Mango Maturity Using Handcrafted Color and Texture Features and Machine Learning"
+    - family-names: "Marianito-Cuahuitic"
+      given-names: "Imanol"
+    - family-names: "Fuentes-Pacheco"
+      given-names: "Jorge"
+    - family-names: "Castro-Bello"
+      given-names: "Mirna"
+    - family-names: "Campos-Francisco"
+      given-names: "Wilfrido"
+    - family-names: "Bárcenas-Nava"
+      given-names: "Areli"
+  title: "Non-Destructive Classification of Ataulfo Mango Ripeness Using Color Images and Machine Learning"
   journal: "Algorithms"
   year: 2026
-  doi: "TO_BE_ADDED"
+  volume: 19
+  issue: 8
+  doi: "10.3390/a19080691"
+  url: "https://www.mdpi.com/1999-4893/19/8/691"

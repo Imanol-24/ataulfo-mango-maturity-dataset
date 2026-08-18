@@ -16,6 +16,6 @@ Each user must define their own experimental protocol and generate their own par
 
 ## Citation
 
-If you use this dataset, tabular features, source code, or any derived resource, please cite the associated paper.
+If you use this image dataset, the tabular features, the source code, or any derived resource, please cite the associated paper:
 
-Citation information will be added once the article is formally published in Algorithms, MDPI.
+Marianito-Cuahuitic, I., Fuentes-Pacheco, J., Castro-Bello, M., Campos-Francisco, W., & Bárcenas-Nava, A. (2026). Non-destructive classification of Ataulfo mango ripeness using color images and machine learning. *Algorithms, 19*(8), Article 691. https://doi.org/10.3390/a19080691

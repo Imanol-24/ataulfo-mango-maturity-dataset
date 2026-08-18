@@ -10,9 +10,10 @@ Under the following terms:
 - Attribution: you must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
 Attribution request:
-If you use the image dataset, tabular feature datasets, or any derived resource from this repository, please cite the associated paper listed in README.md and CITATION.cff.
+If you use the image dataset, tabular feature datasets, source code, models, scripts, or any derived resource from this repository, please cite the associated paper listed in README.md and CITATION.cff.
+
+Suggested citation:
+Marianito-Cuahuitic, I., Fuentes-Pacheco, J., Castro-Bello, M., Campos-Francisco, W., & Bárcenas-Nava, A. (2026). Non-destructive classification of Ataulfo mango ripeness using color images and machine learning. Algorithms, 19(8), Article 691. https://doi.org/10.3390/a19080691
 
 License text:
 https://creativecommons.org/licenses/by/4.0/
-
-The suggested citation will be added once the associated article is formally published.

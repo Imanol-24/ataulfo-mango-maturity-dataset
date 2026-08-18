@@ -186,38 +186,27 @@ The image dataset is organized by class, not by experimental partitions. Each us
 
 ## Citation
 
-If you use any resource from this repository, including images, CSV files, code, models, scripts, or derived resources, please cite the associated paper.
+If you use any resource from this repository, including the image dataset, CSV feature datasets, source code, models, scripts, or any derived resource, please cite the associated paper:
 
-### APA 7 format
+**APA 7**
 
-Once the article is published, it may be cited using the following structure:
+Marianito-Cuahuitic, I., Fuentes-Pacheco, J., Castro-Bello, M., Campos-Francisco, W., & Bárcenas-Nava, A. (2026). Non-destructive classification of Ataulfo mango ripeness using color images and machine learning. *Algorithms, 19*(8), Article 691. https://doi.org/10.3390/a19080691
 
-```text
-LastName, A. A., LastName, B. B., & LastName, C. C. (Year). Article title. Algorithms, volume(issue), article number. https://doi.org/xxxxx
-```
-
-### Temporary APA 7 placeholder
-
-```text
-LastName, A. A., LastName, B. B., & LastName, C. C. (2026). Automatic classification of Ataulfo mango maturity using handcrafted color and texture features and machine learning. Algorithms, xx(x), Article xxxx. https://doi.org/xxxxx
-```
-
-### Temporary BibTeX
+**BibTeX**
 
 ```bibtex
-@article{ataulfo_mango_maturity_2026,
-  author  = {LastName, Initials and LastName, Initials and LastName, Initials},
-  title   = {Automatic Classification of Ataulfo Mango Maturity Using Handcrafted Color and Texture Features and Machine Learning},
-  journal = {Algorithms},
-  year    = {2026},
-  volume  = {xx},
-  number  = {x},
-  pages   = {xxxx},
-  doi     = {xxxxx}
+@Article{a19080691,
+AUTHOR = {Marianito-Cuahuitic, Imanol and Fuentes-Pacheco, Jorge and Castro-Bello, Mirna and Campos-Francisco, Wilfrido and Bárcenas-Nava, Areli},
+TITLE = {Non-Destructive Classification of Ataulfo Mango Ripeness Using Color Images and Machine Learning},
+JOURNAL = {Algorithms},
+VOLUME = {19},
+YEAR = {2026},
+NUMBER = {8},
+ARTICLE-NUMBER = {691},
+URL = {https://www.mdpi.com/1999-4893/19/8/691},
+ISSN = {1999-4893},
+DOI = {10.3390/a19080691}
 }
-```
-
----
 
 ## License
 
