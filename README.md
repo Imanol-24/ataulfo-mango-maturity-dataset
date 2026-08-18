@@ -37,11 +37,7 @@ The objective of this repository is to allow researchers to use the dataset, ver
 
 > **Citation notice**
 >
-> If you use the image dataset, CSV feature datasets, source code, models, scripts, or any derived resource from this repository, please cite the associated paper.
->
->
-> Complete citation information will be updated once the article is formally published.
-
+> If you use any resource from this repository, please cite the associated paper listed in the [Citation](#citation) section.
 ---
 
 ## Repository Contents
